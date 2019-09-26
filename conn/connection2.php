@@ -78,6 +78,9 @@ $conn-> close();
               },
               categories: js
             },
+             title: {
+              text: 'Last 24h'
+            },
             yAxis: {
               title: {
                 text: 'Temperature'
