@@ -86,6 +86,9 @@ $conn->close();
               },
               categories: js
             },
+            title: {
+              text: 'Today'
+            },
             yAxis: {
               title: {
                 text: 'Temperature'
